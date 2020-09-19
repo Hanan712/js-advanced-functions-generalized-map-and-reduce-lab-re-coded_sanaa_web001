@@ -12,5 +12,4 @@ const reduce= function (srArr, srFunction, stPoint=0){
     else{
         return srArr.reduce(srFunction);
     }
-} 
-
+}
